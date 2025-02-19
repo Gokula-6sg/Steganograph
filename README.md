@@ -1,10 +1,10 @@
-🖼️ Image Steganography
+# **Image Steganography**
 
-📌 About
+# About
 
 This project hides and retrieves secret messages in images using Python and PyQt5.
 
-🔥 Features
+# Features
 
 Encrypt a message inside an image.
 
@@ -12,7 +12,7 @@ Decrypt a message with the correct password.
 
 Simple GUI for easy use.
 
-🚀 Installation
+# Installation
 
 Install Python 3.x.
 
@@ -24,7 +24,7 @@ Run the application:
 
 python steganography.py
 
-📌 How to Use
+# How to Use
 
 Encryption
 
@@ -42,7 +42,7 @@ Enter the password.
 
 Retrieve the hidden message.
 
-🛠 Technologies
+# Technologies
 
 Python
 
@@ -52,7 +52,7 @@ OpenCV (Image processing)
 
 NumPy (Data handling)
 
-📜 License
+# License
 
 Open-source under MIT License.
 
